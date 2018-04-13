@@ -1,6 +1,6 @@
 {
   "name": "funsee-cli",
-  "version": "1.0.8",
+  "version": "1.0.9",
   "description": "FunSeeHammer",
   "main": "./bin/funsee-cli.js",
   "bin": "./bin/funsee-cli.js",
